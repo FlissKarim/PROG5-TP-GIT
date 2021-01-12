@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TAILLE_BUFFER 128
+#define TAILLE_BUFFER 1280
 
 void aide()
 {
